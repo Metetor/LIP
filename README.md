@@ -14,3 +14,10 @@ Learned Index Paper,LIP for short
 ## single dimension
 
 ## multi dimension
+
+## Disk
+Description:Learned Index + Disk(SSD/HDD)
+
+- [Updatable Learned Indexes Meet Disk-Resident DBMS](./Disk/Updatable%20Learned%20Indexes%20Meet%20Disk-Resident%20DBMS.pdf):
+
+- [Making In-Memory Learned Indexes Efficient on Disk](./Disk/Making%20In-Memory%20Learned%20Indexes%20Efficient%20on%20Disk.pdf)
