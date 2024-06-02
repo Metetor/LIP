@@ -1,0 +1,4 @@
+pgm-index:一维学习型索引动态and 压缩
+支持点查询[member()、lookup（）、predecessor()]、范围查询:range()、insert 和delete
+只需要关注rank()原语
+rank(x):返回S中小于x的key的数量.
