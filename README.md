@@ -1,5 +1,5 @@
 # LIP
-Learned Index Paper,LIP for short
+Paper about Learned Index,LIP for short
 ## classical
 - B Tree/B+ Tree
 - R Tree family:
